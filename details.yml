@@ -1,0 +1,55 @@
+---
+# Personal details
+name: Louis Ritchie
+address:
+- 3950 Rainbow Street
+- Victoria, BC
+- V8X4A2
+phone: "250 299 6100"
+email: louiscritchie@gmail.com
+# Insert URLs without http://
+urls:
+- louisritchie.com
+- github.com/louisritchie
+
+# Sections
+
+intro: "I'm a 3rd year Math and Computer Science student at UVic. I completed an 8-month web development co-op working at Ruboss Technology Corporation in December 2016, and I'd love the opportunity to join another software team in 2017. \nI have experience writing software in Javascript/HTML/CSS, Python, Ruby (on or off Rails), Java, Shell, and recently Go. I know React, Webpack, Sass, and other parts of the webdev toolchain. I write code that is easy to read and review and submit good pull requests. I use Linux, Vim, and rely on the command line."
+
+skills:
+- Understanding of browsers, HTTP, servers, web development paradigms like MVC, one-way data flow (ala React Redux)
+- Writing React components and supporting CSS that is terse, tightly scoped, and reabable
+- Strong ability to implement mathematical code, such as recursion or graph traversal algorithms, when appropriate
+- Writing unit and integration tests
+- Learning fast, asking questions, and writing code.
+
+experience:
+- years: 2016
+  employer: Ruboss Technology Corporation
+  job: Junior Developer co-op, 2 terms
+  city: Victoria, BC
+- years: 2014--Present
+  employer: St. Michaels University School, Thompson Rivers Univesity, Private clients
+  job: Precalculus/Calculus/Physics tutor
+  city: Kamloops and Victoria, BC
+- years: 2013–-2015
+  employer: Adrienne Designs Landscaping
+  job: Landscaper/Gardener
+  city: Kamloops, BC
+
+education:
+- year: 2016
+  subject: BSc (in progress), Mathematics and Computer Science combined major
+  institute: University of Victoria
+  city: Victoria
+- year: 2015
+  subject: BSc (in progress), Mathematics major
+  institute: Thompson Rivers University
+  city: Kamloops
+
+# Settings
+mainfont: Hoefler Text
+fontsize: 10pt
+lang: English
+geometry: a4paper, left=35mm, right=35mm, top=21mm, bottom=17mm
+---
